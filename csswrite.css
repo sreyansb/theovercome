@@ -1,0 +1,25 @@
+h2 {
+            color: deepskyblue;
+        }
+
+        form {
+            padding-left:15%;
+            padding-right:15%;
+            width:60%;
+
+            background-color: orange;
+            border-style: groove;
+        }
+
+
+
+        #sub {
+            text-align: center;
+            padding: 10px;
+            background-color: cadetblue;
+        }
+
+            #sub:hover {
+                background-color: red;
+                color: whitesmoke;
+            }
